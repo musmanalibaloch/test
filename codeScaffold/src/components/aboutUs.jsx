@@ -1,10 +1,10 @@
 import React from 'react'
 
 
-const about = (props) =>{
+const usman = (props) =>{
     return (
         <div > this is about us, hi world</div>
     )
 }
 
-export default about
+export default usman
